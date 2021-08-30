@@ -6,7 +6,7 @@
 <h2> How to install this Tool </h3>
 <H3> JUST COPY AND PASTE THE LINK IN TERMUX 👇:- </H4>
   
-    • bash <(curl -L tinyurl.com/2nsdtxme)
+     bash <(curl -L tinyurl.com/2nsdtxme)
   
   <h4> All Is Done </h4>
   
