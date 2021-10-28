@@ -541,4 +541,11 @@ echo -e "\e[103m       •••ON GITHUB.COM•••      \e[49m"
 echo -e " \e[39m"
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[39m"
-
+echo " "
+echo -e "\e[31m • Restarting the termux..."
+echo " "
+sleep 1
+exit
+echo " "
+echo -e "\e[92m • Restarted✅"
+echo " "
