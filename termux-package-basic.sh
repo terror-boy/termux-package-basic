@@ -545,7 +545,7 @@ echo " "
 echo -e "\e[31m • Restarting the termux..."
 echo " "
 sleep 1
-logout
+cd
 read -r -s -p $'Press enter to continue...\n'
 echo " "
 echo -e "\e[92m • Restarted✅"
